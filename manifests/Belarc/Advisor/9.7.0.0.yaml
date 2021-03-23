@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2021/Feb/24
+# Automatically updated by the winget bot at 2021/Mar/12
 Id: Belarc.Advisor
 Version: 9.7.0.0
 Name: Advisor
@@ -10,7 +10,7 @@ Description: "The Belarc Advisor builds a detailed profile of your installed sof
 Installers:
 - Arch: x86
   Url: https://downloads.belarc.com/advisor/advisorinstaller.exe
-  Sha256: 18067519CD36D47E181A59AACD10C98E40B777586BCA733F6459D8ACCF32A4BC
+  Sha256: 9515A334823E79FEE173D642517270457B3ACA49E12CDE02FD11FEB973D33A0A
   InstallerType: exe
   Switches:
     Silent: /s
